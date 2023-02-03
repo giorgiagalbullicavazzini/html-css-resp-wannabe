@@ -129,11 +129,11 @@ img {
  ************************************************/
 
 /* 481-768px */
-/* @media screen and (max-width: 768px) {
-    body {
-        background: red;
+@media screen and (max-width: 768px) {
+    .container {
+        width: 100%;
     }
-} */
+}
 
 /* 0-480px */
 @media screen and (max-width: 480px) {
